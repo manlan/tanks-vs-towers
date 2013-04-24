@@ -1,1 +1,1 @@
-Demonstration. No longer developed.
+Demonstration. This project is no longer being developed.
