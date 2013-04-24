@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas>
+
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0</offsetX>
+	<offsetY>0.66</offsetY>
+	<no>1</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.1</offsetX>
+	<offsetY>0.66</offsetY>
+	<no>2</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.2</offsetX>
+	<offsetY>0.66</offsetY>
+	<no>3</no>
+</frame>
+	
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.3</offsetX>
+	<offsetY>0.66</offsetY>
+	<no>4</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.4</offsetX>
+	<offsetY>0.66</offsetY>
+	<no>5</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.5</offsetX>
+	<offsetY>0.66</offsetY>
+	<no>6</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.6</offsetX>
+	<offsetY>0.66</offsetY>
+	<no>7</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.7</offsetX>
+	<offsetY>0.66</offsetY>
+	<no>8</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.8</offsetX>
+	<offsetY>0.66</offsetY>
+	<no>9</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.9</offsetX>
+	<offsetY>0.66</offsetY>
+	<no>10</no>
+</frame>
+	
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0</offsetX>
+	<offsetY>0.33</offsetY>
+	<no>11</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.1</offsetX>
+	<offsetY>0.33</offsetY>
+	<no>12</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.2</offsetX>
+	<offsetY>0.33</offsetY>
+	<no>13</no>
+</frame>
+	
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.3</offsetX>
+	<offsetY>0.33</offsetY>
+	<no>14</no>
+</frame>	
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.4</offsetX>
+	<offsetY>0.33</offsetY>
+	<no>15</no>
+</frame>
+	
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.5</offsetX>
+	<offsetY>0.33</offsetY>
+	<no>16</no>
+</frame>
+	
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.6</offsetX>
+	<offsetY>0.33</offsetY>
+	<no>17</no>
+</frame>
+	
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.7</offsetX>
+	<offsetY>0.33</offsetY>
+	<no>18</no>
+</frame>
+	
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.8</offsetX>
+	<offsetY>0.33</offsetY>
+	<no>19</no>
+</frame>
+	
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.9</offsetX>
+	<offsetY>0.33</offsetY>
+	<no>20</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.0</offsetX>
+	<offsetY>0.0</offsetY>
+	<no>21</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.1</offsetX>
+	<offsetY>0.0</offsetY>
+	<no>22</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.2</offsetX>
+	<offsetY>0.0</offsetY>
+	<no>23</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.3</offsetX>
+	<offsetY>0.0</offsetY>
+	<no>24</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.4</offsetX>
+	<offsetY>0.0</offsetY>
+	<no>25</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.5</offsetX>
+	<offsetY>0.0</offsetY>
+	<no>26</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.6</offsetX>
+	<offsetY>0.0</offsetY>
+	<no>27</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.7</offsetX>
+	<offsetY>0.0</offsetY>
+	<no>28</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.8</offsetX>
+	<offsetY>0.0</offsetY>
+	<no>29</no>
+</frame>
+
+<frame>
+	<x>0.1</x>
+	<y>0.33</y>
+	<offsetX>0.9</offsetX>
+	<offsetY>0.0</offsetY>
+	<no>30</no>
+</frame>
+	
+</TextureAtlas>
